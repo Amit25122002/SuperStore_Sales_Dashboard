@@ -81,7 +81,7 @@ This is an interactive **Super Store Sales Dashboard** project built using **Pow
 
 ### 7. 📅 Year-on-Year Trends
 - **2020 > 2019** in both sales and profit
-- **September and December 2020** saw peak profits
+- **September and December 2020** saw peak profits.
 
 
 
